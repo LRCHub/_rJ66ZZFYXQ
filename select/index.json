@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Trauma",
+  "base_artist": "浜崎あゆみ",
+  "createdAt": "2025-12-02T22:41:24.023812Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "trauma factory",
+      "artist": "nothing,nowhere.",
+      "has_synced": true,
+      "path": "select/01_trauma_factory_nothing,nowhere..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Trauma (feat. Cordae)",
+      "artist": "H.E.R. feat. Cordae",
+      "has_synced": true,
+      "path": "select/02_Trauma_(feat._Cordae)_H.E.R._feat._Cordae.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Trauma (feat. Cordae)",
+      "artist": "H.E.R.",
+      "has_synced": true,
+      "path": "select/03_Trauma_(feat._Cordae)_H.E.R..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Psychic Trauma",
+      "artist": "Cloud Nothings",
+      "has_synced": true,
+      "path": "select/04_Psychic_Trauma_Cloud_Nothings.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beautiful Trauma",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/05_Beautiful_Trauma_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Trauma",
+      "artist": "Fear of Men",
+      "has_synced": false,
+      "path": "select/06_Trauma_Fear_of_Men.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Trauma of War",
+      "artist": "Sepultura",
+      "has_synced": false,
+      "path": "select/07_Trauma_of_War_Sepultura.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "TRAUMA",
+      "artist": "PARTYNEXTDOOR",
+      "has_synced": true,
+      "path": "select/08_TRAUMA_PARTYNEXTDOOR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Deep Down Trauma Hounds",
+      "artist": "Skinny Puppy",
+      "has_synced": true,
+      "path": "select/09_Deep_Down_Trauma_Hounds_Skinny_Puppy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Scumgrief - Deep Dub Trauma Mix",
+      "artist": "Fear Factory",
+      "has_synced": false,
+      "path": "select/10_Scumgrief_-_Deep_Dub_Trauma_Mix_Fear_Factory.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Day Twelve: Trauma",
+      "artist": "Ayreon",
+      "has_synced": true,
+      "path": "select/11_Day_Twelve__Trauma_Ayreon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Trauma",
+      "artist": "Fleurety",
+      "has_synced": false,
+      "path": "select/12_Trauma_Fleurety.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Trauma",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_Trauma_浜崎_あゆみ.txt"
+    }
+  ]
+}
